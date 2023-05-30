@@ -44,7 +44,7 @@ dotnet tool install --global dotnet-ef --version 6.0.0
 
 - https://www.learnhowtoprogram.com/c-and-net/authentication-with-identity/identity-setup-and-configuration
 
-**2_authentication**: This branch includes the code we added after working through the following lessons:
+**2_authentication**: This branch includes the code we added after working through the following lessons:   
 
 - https://www.learnhowtoprogram.com/c-and-net/authentication-with-identity/authentication-with-identity-user-registration-controller
 - https://www.learnhowtoprogram.com/c-and-net/authentication-with-identity/authentication-with-identity-user-registration-viewmodel-validation-and-views
